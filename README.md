@@ -48,3 +48,6 @@ Some Basic Analysis:
 3. How terrorism is also affecting the human freedom index
 4. Map visualization for different categories like: Locations with maximum attacks.
 5. Word cloud to highlight the motivation of attackers
+
+![Image of kaggle](https://github.com/PoojaAg18/Terrorism_Analytics/blob/master/data/kaggle.png)
+
