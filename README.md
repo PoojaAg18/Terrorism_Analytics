@@ -1,6 +1,9 @@
 # Terrorism_Analytics
 
-A D3-based interactive visual interface which would allow users to gain insight on terrorist activities around the world.  
+A D3-based interactive visual interface which would allow users to gain insight on terrorist activities around the world. 
+
+![Image of terrorism-alert](https://github.com/PoojaAg18/Terrorism_Analytics/blob/master/data/Terror-alert-1.jpg)
+
 Technology: Python, D3, HTML, CSS, JQuery. 
 
 The major highlights are –
@@ -48,6 +51,4 @@ Some Basic Analysis:
 3. How terrorism is also affecting the human freedom index
 4. Map visualization for different categories like: Locations with maximum attacks.
 5. Word cloud to highlight the motivation of attackers
-
-![Image of terrorism-alert](https://github.com/PoojaAg18/Terrorism_Analytics/blob/master/data/Terror-alert-1.jpg)
 
