@@ -49,5 +49,5 @@ Some Basic Analysis:
 4. Map visualization for different categories like: Locations with maximum attacks.
 5. Word cloud to highlight the motivation of attackers
 
-![Image of kaggle](https://github.com/PoojaAg18/Terrorism_Analytics/blob/master/data/kaggle.png)
+![Image of terrorism-alert](https://github.com/PoojaAg18/Terrorism_Analytics/blob/master/data/Terror-alert-1.jpg)
 
